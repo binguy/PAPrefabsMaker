@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 * linguist-vendored
-*.lsb linguist-vendored=false
+*.cpp linguist-vendored=false
