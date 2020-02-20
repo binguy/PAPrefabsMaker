@@ -61,5 +61,5 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-*.lsb linguist-detectable=false
-*.cpp linguist-detectable=true
+* linguist-vendored
+*.lsb linguist-vendored=false
