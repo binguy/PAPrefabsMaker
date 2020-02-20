@@ -329,7 +329,8 @@ void prefab::generate() {
 	for (char c : name)
 		fileName += tolower(c);
 	fileName += ".lsp";
-	file.open(fileName);
+	std::string FilePath = "C:/Users/Mysel/source/repos/PAPrefabs/Prefabs Outputed/" + fileName;
+	file.open(FilePath);
 	file << "{\n";
 	indent(1, "name", name);
 	indent(1, "type", type);
