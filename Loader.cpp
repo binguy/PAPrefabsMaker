@@ -1,6 +1,7 @@
 //C++ program to write and read text in/from file.
 
-#include "Prefab Sources/cube.cpp"
+#include "Prefab Sources/FoxBomb.cpp"
+#include "prefab.h"
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
